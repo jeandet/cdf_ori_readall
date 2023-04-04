@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/SciQLop/CDFpp.git
+revision = main
+
+[provide]
+cdfpp=cdfpp_dep
